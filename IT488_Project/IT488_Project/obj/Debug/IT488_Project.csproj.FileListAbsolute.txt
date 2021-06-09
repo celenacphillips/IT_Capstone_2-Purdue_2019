@@ -1,0 +1,14 @@
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\bin\Debug\IT488_Project.exe.config
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\bin\Debug\IT488_Project.exe
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\bin\Debug\IT488_Project.pdb
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\obj\Debug\IT488_Project.csprojAssemblyReference.cache
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\obj\Debug\IT488_Project.Form1.resources
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\obj\Debug\IT488_Project.Properties.Resources.resources
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\obj\Debug\IT488_Project.csproj.GenerateResource.cache
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\obj\Debug\IT488_Project.csproj.CoreCompileInputs.cache
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\obj\Debug\IT488_Project.exe
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\obj\Debug\IT488_Project.pdb
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\bin\Debug\IT488_Project.exe.manifest
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\bin\Debug\IT488_Project.application
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\obj\Debug\IT488_Project.exe.manifest
+C:\Users\celen\source\repos\IT488_Project\IT488_Project\obj\Debug\IT488_Project.application
